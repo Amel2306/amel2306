@@ -23,8 +23,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amel2306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=fr&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amel2306&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&&hide_border=false&background=E9C6AB" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amel2306&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=fr&hide_border=false&bg_color=E9C6AB&title_color=472427&icon_color=472427&text_color=936357" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amel2306&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&&hide_border=false&bg_color=E9C6AB&title_color=472427&text_color=936357" height="150" alt="languages graph"  />
 </div>
 
 ###

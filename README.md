@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!{Identity}(Glamping-2.svg)
+![Identity](Glamping-2.svg)

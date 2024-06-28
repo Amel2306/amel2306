@@ -6,17 +6,17 @@
 
 <br clear="both">
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="gauche.gif" style="margin-right: 20px;" />
-  <div style="margin: 0 20px; font-family: 'Georgia', serif; text-align: center;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img align="left" src="gauche.gif" />
+  <div align="center" style="margin: 0px; pading: 0px;">
     <p>Bienvenu sur mon profil !! Moi c'est Amel,</p>
     <p>je suis actuellement étudiante en 5ème année d'école d'ingénieure</p>
     <p>en informatique et gestion à l'école Polytech Montpellier</p>
     <p>et je suis passionnée de développement web et mobile :).</p>
   </div>
-  <img src="droit.gif" style="margin-left: 20px;" />
 </div>
 
+<br clear="both">
 
 ###
 

@@ -37,6 +37,33 @@
 
 ###
 
+<p align="center">
+<a href="https://skillicons.dev">
+  <h3 align="center">Langage de programmation</h3>
+        <p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,swift,java,c,cpp,r" />
+        </p>
+    <h3 align="center">Frameworks et bibliothèque</h3>
+      <p align="center">
+
+  <img src="https://skillicons.dev/icons?i=angular,react,vue,express,nodejs,alpinejs,laravel,bootstrap,tailwind" />
+      </p>
+    <h3 align="center">Bases de données</h3>
+    <p align="center">
+
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    </p>
+
+  <h3 align="center">Outils et environnement de Développement</h3>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,githubactions,vscode,idea,phpstorm,arduino,maven,gradle,docker" />
+  <img src="https://skillicons.dev/icons?i=figma,unity,postman,notion,replit,discord,netlify" />
+  </p>
+</a>
+</p>
+<hr>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Amel2306/Amel2306/output/snake.svg" alt="Snake animation" />

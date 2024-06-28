@@ -1,4 +1,4 @@
-![Identity](Amel__Addou.gif)
+![Identity](Amel-Addou.gif)
 
 <h2 align="left">Salut 👋!</h2>
 

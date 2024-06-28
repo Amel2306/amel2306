@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Amel2306/amel2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Identity](Glamping-2.svg)
+![Identity](Amel_Addou.gif)
